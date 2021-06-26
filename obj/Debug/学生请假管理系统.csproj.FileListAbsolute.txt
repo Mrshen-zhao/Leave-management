@@ -1,0 +1,62 @@
+E:\WinForms\学生请假管理系统\学生请假管理系统\bin\Debug\学生请假管理系统.exe.config
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.csprojResolveAssemblyReference.cache
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.Properties.Resources.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.csproj.GenerateResource.Cache
+E:\WinForms\学生请假管理系统\学生请假管理系统\bin\Debug\学生请假管理系统.exe
+E:\WinForms\学生请假管理系统\学生请假管理系统\bin\Debug\学生请假管理系统.pdb
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.exe
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.pdb
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.Login.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.StudentManager.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.StuApplication.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.AppStation.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.ZhuCe.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.SelectInfo.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.UpDateInfo.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.SchoolManager.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.Waiting.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.ShenHe.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.PassWork.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.AppManager.resources
+E:\WinForms\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.MyInfo.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.AppManager.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.AppStation.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.Login.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.MyInfo.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.PassWork.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.Properties.Resources.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.SchoolManager.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.SelectInfo.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.ShenHe.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.StuApplication.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.StudentManager.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.UpDateInfo.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.Waiting.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.ZhuCe.resources
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.exe
+C:\Users\admin\Desktop\请假系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.pdb
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.AppManager.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.AppStation.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.Login.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.MyInfo.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.PassWork.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.Properties.Resources.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.SchoolManager.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.SelectInfo.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.ShenHe.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.StuApplication.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.StudentManager.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.UpDateInfo.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.Waiting.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.ZhuCe.resources
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.exe
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\obj\Debug\学生请假管理系统.pdb
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\bin\Debug\学生请假管理系统.exe.config
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\bin\Debug\学生请假管理系统.exe
+C:\Users\Administrator\Documents\Tencent Files\375212060\FileRecv\学生请假管理系统\学生请假管理系统\学生请假管理系统\bin\Debug\学生请假管理系统.pdb
